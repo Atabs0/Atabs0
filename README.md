@@ -1,6 +1,6 @@
 ![logo](https://github.com/Atabs0/Atabs0/blob/main/Teal%20Geometric%20Technology%20Linkdln%20Banner.png)
 <h1 align="center">Hi 👋, I'm Atabong Tajo Acha</h1>
-<h3 align="center">A passionate Software and blockchain Development</h3>
+<h3 align="center">A passionate Software and blockchain Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atabs0&label=Profile%20views&color=0e75b6&style=flat" alt="atabs0" /> </p>
 
