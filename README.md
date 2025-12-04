@@ -1,4 +1,4 @@
-![logo]([https://github.com/Atabs0/Atabs0/blob/main/backgroundpic.jpeg])
+![logo](https://github.com/Atabs0/Atabs0/blob/main/backgroundpic.jpeg)
 <h1 align="center">Hi 👋, I'm Atabong Tajo Acha</h1>
 <h3 align="center">A passionate Network and Cloud Security Engineer</h3>
 <img align="right" alt="coding" style="border-radius: 10px;" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
