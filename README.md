@@ -6,24 +6,17 @@
 
 - 🌱 I’m currently working on  **Cloud Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Atabs0](https://github.com/Atabs0)
+- 👨‍💻 All of my projects are available on LinkedIn (Atabong Tajo Acha)
 
-- 💬 Ask me about **react, solidity, java, rust, JavaScript**
+- 💬 Ask me about **Network And Cloud Security**
 
-- 📫 How to reach me **tajoacha@gmail.com**
+- 📫 How to reach me **atabs.acha@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😅️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/atabs09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atab01" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/channel/UCqVN-VA46ZMXUuyLjRNr5mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atabong tajoacha" height="30" width="40" /></a>
-
 </p>
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atabs0&show_icons=true&locale=en&layout=compact" alt="atabs0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atabs0&show_icons=true&locale=en" alt="atabs0" /></p>
